@@ -24,18 +24,17 @@ I'm actively strengthening my foundations in Data Structures & Algorithms, Objec
 
 ### What I'm currently learning 🚀
 
-- AI Driven Perception, Learning and Mapping
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
 - Software Development
-- Open Source Development
 
 ### Areas I'm interested in
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Software Development
 - 🧠 Data Structures & Algorithms
+- 🤖AI Driven Perception, Learning and Mapping
 - 🗄️ Database Management Systems
 - 🌐 Web Development
 - 🌍 Mapping Technologies
